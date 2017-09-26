@@ -12,7 +12,10 @@ termsfreq.php Absolute and relative frequencies
 termsoccur.php Frequencies and occurrence position
 
 
-### Web browser display
+### Data and web browser display
+
+texttoprocess.txt Text used as example
+
 index.html  Main page with links to php scripts
 
 textopenfile.php Example of tags processing for web display
