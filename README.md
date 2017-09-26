@@ -4,14 +4,21 @@ Scripts to process, tokenize and provide frequencies for a given text. The scrip
 
 ### Main scripts
 sentences.php Splits text in sentences
+
 dictext.php  Tokenizer
+
 termsfreq.php Absolute and relative frequencies
+
 termsoccur.php Frequencies and occurrence position
 
 
 ### Web browser display
 index.html  Main page with links to php scripts
+
 textopenfile.php Example of tags processing for web display
+
 stylepwyll.css Cascade Style Sheet for web browsers
+
 htmlheading.php HTML heading for web pages
+
 menubot.php HTML menu for web pages
