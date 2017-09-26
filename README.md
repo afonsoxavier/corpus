@@ -25,3 +25,6 @@ stylepwyll.css Cascade Style Sheet for web browsers
 htmlheading.php HTML heading for web pages
 
 menubot.php HTML menu for web pages
+
+## All files
+corpusfreqs.zip all files in a zip compressed folder
